@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @satyaki
 - 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ...java 
+- 🌱 I’m currently learning ...c++/DSA
 - 💞️ I’m looking to collaborate on ...microsoft
 - 📫 How to reach me comtact me on linkedin https://www.linkedin.com/in/satyakikumar/
