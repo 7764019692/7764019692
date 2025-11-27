@@ -6,6 +6,8 @@
   <img src='https://komarev.com/ghpvc/?username=7764019692&label=Profile%20Views&color=blue&style=flat' />
 </p>
 
+---
+
 <h2 align='center'>🚀 Tech Stack & Tools</h2>
 
 <h3 align='center'>💻 Programming Languages</h3>
@@ -45,7 +47,7 @@
 
 <h2 align='center'>🏆 GitHub Trophies</h2>
 <p align='center'>
-  <img src='https://github-profile-trophy.vercel.app/?username=7764019692&theme=radical&margin-w=15&margin-h=15' />
+  <img src='https://github-profile-trophy.vercel.app/?username=7764019692&theme=algolia&margin-w=10&margin-h=10' />
 </p>
 
 ---
@@ -67,21 +69,21 @@
 
 <h2 align='center'>🐍 Contribution Snake</h2>
 <p align='center'>
-  <img src='https://raw.githubusercontent.com/7764019692/7764019692/output/github-contribution-grid-snake.svg'>
+  <img src='https://raw.githubusercontent.com/7764019692/7764019692/output/github-contribution-grid-snake.svg' />
 </p>
 
 ---
 
 <h2 align='center'>🎯 Achievements</h2>
 <p align='center'>
-  <img src='https://github-profile-achievements.vercel.app/api/achievements?username=7764019692' />
+  <img src='https://github-profile-trophy.vercel.app/?username=7764019692&theme=radical' />
 </p>
 
 ---
 
 <h2 align='center'>✨ 3D Contribution Graph</h2>
 <p align='center'>
-  <img src='https://raw.githubusercontent.com/7764019692/7764019692/main/profile-3d-contrib/profile-night-rainbow.svg' />
+  <img src='https://raw.githubusercontent.com/7764019692/7764019692/main/profile-3d-contrib/profile-night-rainbow.svg' alt='3D Graph will appear after workflow runs' />
 </p>
 
 ---
@@ -94,6 +96,3 @@
 </p>
 
 ---
-
-
-
