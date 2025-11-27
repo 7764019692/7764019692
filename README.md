@@ -1,5 +1,5 @@
 ﻿<p align='center'>
-  <img src='https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Satyaki+Kumar;Data+Analytics+%26+AI+Enthusiast;Full+Stack+Developer;Machine+Learning+Practitioner&center=true&size=25'>
+  <img src='https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Satyaki ;Data+Analytics+%26+AI+Enthusiast;Full+Stack+Developer;Machine+Learning+Practitioner&center=true&size=25'>
 </p>
 
 <p align='center'>
@@ -94,4 +94,5 @@
 </p>
 
 ---
+
 
